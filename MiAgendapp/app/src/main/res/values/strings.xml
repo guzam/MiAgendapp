@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MiAgendapp</string>
+
+    <string name="lblNombre">Nombre completo</string>
+    <string name="lblFechaNacimiento">Fecha de nacimiento</string>
+    <string name="lblTelefono">teléfono</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblDescripcion">Descripción del contacto</string>
+    <string name="lblConfirmarDatos">Confirmar Datos</string>
+
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnEditar">Editar datos</string>
+
+</resources>
