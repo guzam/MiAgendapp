@@ -11,4 +11,6 @@
     <string name="btnSiguiente">Siguiente</string>
     <string name="btnEditar">Editar datos</string>
 
+    <string name="msgError">Los campos Nombre Completo y Telefono son obligatorios</string>
+
 </resources>

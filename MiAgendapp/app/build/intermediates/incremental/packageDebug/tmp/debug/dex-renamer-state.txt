@@ -1,0 +1,7 @@
+#Thu Dec 03 01:10:04 ART 2020
+base.0=D\:\\GUSTAVO\\Escritorio\\Coursera\\02_Desarrollo de aplicaciones con Android\\tareas\\semana 02\\MiAgendapp\\MiAgendapp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\GUSTAVO\\Escritorio\\Coursera\\02_Desarrollo de aplicaciones con Android\\tareas\\semana 02\\MiAgendapp\\MiAgendapp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
